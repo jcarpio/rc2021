@@ -1,0 +1,87 @@
+
+
+- Principio de Inducción Matemático
+
+  Quiero demostrar si P es cierta para todos los elementos
+  de un conjunto S
+  
+  El conjunto S tine que ser ordenable
+  
+  n0 < n1 < n2 <  .... < n , Para todo n que pertenece al S
+  
+  1) P tiene que ser cierta para n0
+     P(N0)
+	 
+  2) Para todos los elementos mayores que N0,
+     Si P es verdad para N-1 también lo será para N
+     P(N-1) -> P(N)
+	 
+	 
+	 
+# 1, 2, 3, 4, 5, 6, ...
+
+# Prolog - Primer programa
+
+natural(1).
+
+# natural(n-1) -> natural(n).
+
+natural(N) :- number(N), N > 1, N2 is N - 1, natural(N2).
+
+
+
+natural(5) ?
+
+
+
+
+
+
+# N = N - 1.
+
+# En C
+# n++;
+
+
+# En lógica
+# a -> b
+
+# En Prolog
+# b :- a.
+
+# Implicación lógica
+#      a         ->        b 
+#  Antecedente        Consecuente
+
+# hace_sol -> ire_playa
+
+
+
+# Una variable en Prolog cuando se le asigna un valor,
+# este nunca cambia hasta que termina el ámbito de la variable.
+
+# Teorema 1
+
+# Sea X pertenece R, X < 0, ...  .
+
+# Teorema 2
+
+# Sea X pertenece a N, N < 5, ....
+
+# X, X<0.
+
+# Ámbito de las variables en Prolog hasta el punto "." o final de linea.
+
+
+
+	
+	
+
+
+	 
+  
+  
+  
+  
+  
+
