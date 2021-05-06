@@ -4,3 +4,4 @@
   genérico que tiene la misma estructura que
   el árbol binario ArbolBin.
 */
+

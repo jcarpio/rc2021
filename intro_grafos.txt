@@ -1,0 +1,48 @@
+/*
+  a ------- b
+   \        |
+    \       |
+	 c ---- d ---- e
+	 
+Grafo no dirigido
+	 
+grafo([a,b,c,d,e], [arista(a,b),
+                    arista(a,c),
+					arista(b,d),
+					arista(d,e)]).
+				
+Camino:
+
+Ini -------------------> Fin
+       camino
+
+Ini ----------> TMP ------------------> Fin
+     conectado			 camino	 
+  
+  
+camino(+grafo(V,A), +Ini, +Fin, +Visitados, -Camino, -Peso).
+  es cierto si Camino unifica con una lista de 
+  vertices/aristas que representa el camino que
+  va desde Ini hasta Fin en el grafo(V,A) y donde
+  no se repiten los vertices/aristas de que están
+  en la lista Visitados. El Peso unifica con coste total
+  del camino  
+*/  
+
+camino(_, Ini, Ini, _, [Ini], 0).
+
+camino(grafo(V,A), Ini, Fin, Visitados, [Ini|Camino]):-
+  conectado(Ini, TMP, grafo(_,A),
+  \+ member(TMP, Visitados),
+  camino(grafo(V,A), TMP, Fin, [TMP|Visitados], Camino).
+
+conectado(A,B, grafo(_,A)) :- member(arista(A,B), A).
+conectado(A,B, grafo(_,A)) :- member(arista(B,A), A).
+
+
+grafo1(grafo([a,b,c,d,e], [arista(a,b),
+                    arista(a,c),
+					arista(b,d),
+					arista(d,e)])).
+
+  
