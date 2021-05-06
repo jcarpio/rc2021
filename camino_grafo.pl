@@ -55,4 +55,4 @@ grafo1(grafo([a,b,c,d,e], [arista(a,b),
 					arista(c,d),
 					arista(d,e)])).
 
-ciclos(grafo(V,A), Camino):- member(P, V), camino(grafo(_, A), P, P, [], Camino).   
+ciclos(grafo(V,A), Camino):- member(P, V), camino(grafo(_, A), P, P, [], Camino), length(Camino, L), L > 1.   
