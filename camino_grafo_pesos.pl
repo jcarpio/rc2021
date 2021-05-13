@@ -66,5 +66,28 @@ menor_camino([(P, C)|Resto], P, C):-
   P =< P2.
 menor_camino([(P, _)|Resto], P2, C2):-
   menor_camino(Resto, P2, C2),
-  P > P2.    
+  P > P2. 
+
+
+
+
+
+
+camino_menor([], 10000, _).
+
+camino_menor([(P,C)|Resto], P, C):-
+   camino_menor(Resto, P2, _),
+   P =< P2.
+
+camino_menor([(P,_)|Resto], P2, C2):-
+   camino_menor(Resto, P2, C2),
+   P > P2.
+
+
+
+
+
+
+
+  
   
