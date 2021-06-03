@@ -1,0 +1,648 @@
+
+
+
+
+Class: 1a
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+          mat     mat     mat     mat   
+          ume     ume     nej     nej   
+  mat     anj     anj     rai     rai   
+  anj     atvz    geo     zgo     zgo   
+  atvz    bio     kem     atvz    geo   
+  sjk     sjk     sjk     bio     kem   
+  nej     fiz     sjk     fiz           
+
+
+
+
+Class: 1b
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  mat     mat     mat     mat     mat   
+  anj     nej     nej     geo     nej   
+  ume     fiz     zgo     zgo     atvz  
+  sjk     sjk     sjk     sjk     kem   
+  atvz    anj     ume     anj           
+  bio     kem     atvz    rai           
+  geo     rai     bio     fiz           
+
+
+
+
+Class: 1c
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  geo     nej     fiz     kem     rai   
+  mat     mat     mat     mat     mat   
+  sjk     sjk     sjk     sjk     fiz   
+  bio     kem     anj     atvz    nej   
+  nej     ume     rai     bio           
+  atvz    zgo     ume     zgo           
+  anj     atvz    geo     anj           
+
+
+
+
+Class: 1d
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  mat     mat     mat     mat     mat   
+  bio     anj     anj     bio     rai   
+  geo     zgo     rai     geo     anj   
+  sjk     sjk     sjk     sjk     zgo   
+  ume     fiz     atvz    fiz           
+  nej     nej     kem     atvz          
+  atvz    kem     ume     nej           
+
+
+
+
+Class: 2a
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  bio     atvz    bio     anj     nej   
+  sjk     mat     mat     mat     mat   
+  mat     sjk     sjk     sjk     zgo   
+  geo     geo     atvz    atvz          
+  anj     anj     kem     psi           
+  fiz     psi     nej     fiz           
+  nej     fiz     zgo     kem           
+
+
+
+
+Class: 2b
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  atvz    kem     psi     atvz    anj   
+  sjk     sjk     sjk     sjk           
+  mat     mat     mat     mat     mat   
+  nej     anj     atvz    psi           
+  fiz     zgo     bio     geo           
+  anj     geo     kem     nej           
+  bio     nej     fiz     zgo           
+
+
+
+
+Class: 2c
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  anj     anj     atvz    psi     atvz  
+  mat     mat     mat     mat     mat   
+  bio     atvz    nej     fiz           
+  sjk     sjk     sjk     sjk           
+  geo     nej     psi     kem           
+  kem     bio     geo     nej           
+  fiz     zgo     anj     zgo           
+
+
+
+
+Class: 2d
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  mat     fiz     geo     bio     anj   
+  atvz    mat     mat     mat     mat   
+  nej     atvz    anj     nej     psi   
+  fiz     zgo     kem     fiz           
+  sjk     sjk     sjk     sjk           
+  anj     nej     atvz    geo           
+  psi     bio     zgo     kem           
+
+
+
+
+Class: 3a
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  fiz     zgo     nej     nej     soc   
+  nej     sjk     sjk     sjk           
+  sjk     kem     atvz    atvz          
+  mat     mat     mat     mat           
+  bio     geo     geo     fiz           
+  anj     anj     zgo     anj           
+  atvz    soc     kem     bio           
+
+
+
+
+Class: 3b
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  anj     anj     nej     nej     fiz   
+  geo     bio     geo     kem           
+  atvz    nej     soc     bio           
+  mat     mat     mat     mat           
+  sjk     sjk     sjk     sjk           
+  zgo     fiz     zgo     soc           
+  kem     atvz    atvz    anj           
+
+
+
+
+Class: 3c
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  nej     atvz    atvz    zgo           
+  zgo     nej     soc     atvz          
+  sjk     sjk     sjk     sjk           
+  mat     mat     mat     mat           
+  anj     fiz     fiz     kem           
+  geo     anj     bio     anj           
+  kem     geo     nej     soc           
+
+
+
+
+Class: 3d
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  nej     nej     fiz     atvz    bio   
+  atvz    geo     atvz    fiz           
+  anj     kem     kem     soc           
+  mat     mat     mat     mat           
+  sjk     sjk     sjk     sjk           
+  soc     anj     anj     zgo           
+  zgo             nej     geo           
+
+
+
+
+Class: 4a
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  sjk     sjk     sjk     sjk     sjk   
+  anj     anj     anj     anj           
+  mat     mat     mat     mat     mat   
+  zgo     nej     zgo                   
+          atvz    nej     atvz          
+  atvz    fil                           
+  fil                                   
+
+
+
+
+Class: 4b
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  sjk     sjk     sjk     sjk     sjk   
+  mat     anj     anj     anj           
+  atvz    mat     mat     mat     mat   
+  anj     fil     nej                   
+  fil     atvz    atvz                  
+  nej                                   
+  zgo     zgo                           
+
+
+
+
+Class: 4c
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  sjk     sjk     sjk     sjk     sjk   
+  mat     zgo     fil     atvz          
+  anj     mat     mat     mat     mat   
+  atvz    anj     anj     anj           
+  nej     fil                           
+  zgo     atvz                          
+          nej                           
+
+
+
+
+Class: 4d
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+  mat     mat     mat     mat     mat   
+  sjk     sjk     sjk     sjk     sjk   
+  anj     anj     anj     anj           
+  atvz    nej                           
+  zgo             zgo                   
+  fil     atvz    nej                   
+          fil     atvz                  
+
+
+
+
+
+
+Teacher: anj1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 3b/anj  3b/anj          2a/anj         
+ 4a/anj  4a/anj  4a/anj  4a/anj         
+ 4c/anj  1a/anj  1a/anj                 
+ 1a/anj  4c/anj  4c/anj  4c/anj         
+ 2a/anj  2a/anj                         
+ 3a/anj  3a/anj          3a/anj         
+                         3b/anj         
+
+
+
+
+Teacher: anj2
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 2c/anj  2c/anj                  2b/anj 
+ 1b/anj  4b/anj  4b/anj  4b/anj         
+ 4d/anj  4d/anj  4d/anj  4d/anj         
+ 4b/anj  2b/anj                         
+ 3c/anj  1b/anj          1b/anj         
+ 2b/anj  3c/anj          3c/anj         
+                 2c/anj                 
+
+
+
+
+Teacher: anj3
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+                                 2d/anj 
+         1d/anj  1d/anj                 
+ 3d/anj          2d/anj          1d/anj 
+                 1c/anj                 
+                                        
+ 2d/anj  3d/anj  3d/anj                 
+ 1c/anj                  1c/anj         
+
+
+
+
+Teacher: atvz1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+2b/atvz 3c/atvz 3c/atvz 2b/atvz         
+2d/atvz                 3c/atvz         
+4b/atvz 2d/atvz 3a/atvz 3a/atvz         
+4d/atvz 1a/atvz 2b/atvz 1c/atvz         
+1a/atvz 4b/atvz 4b/atvz 1a/atvz         
+1c/atvz 4d/atvz 2d/atvz                 
+3a/atvz 1c/atvz 4d/atvz                 
+
+
+
+
+Teacher: atvz2
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+        2a/atvz 2c/atvz 3d/atvz 2c/atvz 
+3d/atvz         3d/atvz 4c/atvz         
+3b/atvz 2c/atvz                 1b/atvz 
+4c/atvz         2a/atvz 2a/atvz         
+1b/atvz 4a/atvz 1d/atvz 4a/atvz         
+4a/atvz 4c/atvz 1b/atvz 1d/atvz         
+1d/atvz 3b/atvz 3b/atvz                 
+
+
+
+
+Teacher: bio1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 2a/bio          2a/bio  2d/bio  3d/bio 
+ 1d/bio  3b/bio          1d/bio         
+ 2c/bio                  3b/bio         
+ 1c/bio                                 
+ 3a/bio  1a/bio  2b/bio  1c/bio         
+ 1b/bio  2c/bio  3c/bio  1a/bio         
+ 2b/bio  2d/bio  1b/bio  3a/bio         
+
+
+
+
+Teacher: fil1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+                                        
+                 4c/fil                 
+                                        
+         4b/fil                         
+ 4b/fil  4c/fil                         
+ 4d/fil  4a/fil                         
+ 4a/fil  4d/fil                         
+
+
+
+
+Teacher: fiz1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 3a/fiz  2d/fiz  1c/fiz                 
+                                        
+                                 1c/fiz 
+ 2d/fiz                  2d/fiz         
+ 2b/fiz  3c/fiz  3c/fiz  3a/fiz         
+                                        
+         1a/fiz  2b/fiz  1a/fiz         
+
+
+
+
+Teacher: fiz2
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+                 3d/fiz          3b/fiz 
+                         3d/fiz         
+         1b/fiz          2c/fiz         
+                                        
+         1d/fiz          1d/fiz         
+ 2a/fiz  3b/fiz          2a/fiz         
+ 2c/fiz  2a/fiz          1b/fiz         
+
+
+
+
+Teacher: geo1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 1c/geo          2d/geo                 
+ 3b/geo  3d/geo  3b/geo  1b/geo         
+ 1d/geo                  1d/geo         
+ 2a/geo  2a/geo  1a/geo                 
+ 2c/geo  3a/geo  3a/geo  2b/geo  1a/geo 
+ 3c/geo  2b/geo  2c/geo  2d/geo         
+ 1b/geo  3c/geo  1c/geo  3d/geo         
+
+
+
+
+Teacher: kem1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+         2b/kem          1c/kem         
+                                        
+         3a/kem                         
+         1c/kem  2d/kem                 
+                 1a/kem  3c/kem         
+                 2b/kem          1a/kem 
+ 3c/kem          3a/kem  2d/kem         
+
+
+
+
+Teacher: kem2
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+                                        
+                         3b/kem         
+         3d/kem  3d/kem                 
+                                 1b/kem 
+                 2a/kem  2c/kem         
+ 2c/kem  1b/kem  1d/kem                 
+ 3b/kem  1d/kem          2a/kem         
+
+
+
+
+Teacher: mat1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 2d/mat  1a/mat  1a/mat  1a/mat  1a/mat 
+ 4b/mat  2d/mat  2d/mat  2d/mat  2d/mat 
+ 1a/mat  4b/mat  4b/mat  4b/mat  4b/mat 
+ 3c/mat  3c/mat  3c/mat  3c/mat         
+                                        
+                                        
+                                        
+
+
+
+
+Teacher: mat2
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 1b/mat  1b/mat  1b/mat  1b/mat  1b/mat 
+ 4c/mat  2a/mat  2a/mat  2a/mat  2a/mat 
+ 2a/mat  4c/mat  4c/mat  4c/mat  4c/mat 
+ 3d/mat  3d/mat  3d/mat  3d/mat         
+                                        
+                                        
+                                        
+
+
+
+
+Teacher: mat3
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 4d/mat  4d/mat  4d/mat  4d/mat  4d/mat 
+ 1c/mat  1c/mat  1c/mat  1c/mat  1c/mat 
+ 2b/mat  2b/mat  2b/mat  2b/mat  2b/mat 
+ 3a/mat  3a/mat  3a/mat  3a/mat         
+                                        
+                                        
+                                        
+
+
+
+
+Teacher: mat4
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 1d/mat  1d/mat  1d/mat  1d/mat  1d/mat 
+ 2c/mat  2c/mat  2c/mat  2c/mat  2c/mat 
+ 4a/mat  4a/mat  4a/mat  4a/mat  4a/mat 
+ 3b/mat  3b/mat  3b/mat  3b/mat         
+                                        
+                                        
+                                        
+
+
+
+
+Teacher: nej1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 3c/nej  1c/nej  3a/nej  3a/nej         
+ 3a/nej  3c/nej          1a/nej  1a/nej 
+ 2d/nej                  2d/nej         
+ 2b/nej  4d/nej  4b/nej          1c/nej 
+ 1c/nej                                 
+ 4b/nej  2d/nej  4d/nej  2b/nej         
+ 1a/nej  2b/nej  3c/nej                 
+
+
+
+
+Teacher: nej2
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 3d/nej  3d/nej  3b/nej  3b/nej  2a/nej 
+         1b/nej  1b/nej          1b/nej 
+         3b/nej  2c/nej                 
+         4a/nej                         
+ 4c/nej  2c/nej  4a/nej                 
+ 1d/nej  1d/nej  2a/nej  2c/nej         
+ 2a/nej  4c/nej  3d/nej  1d/nej         
+
+
+
+
+Teacher: psi1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+                 2b/psi  2c/psi         
+                                        
+                                 2d/psi 
+                         2b/psi         
+                 2c/psi  2a/psi         
+         2a/psi                         
+ 2d/psi                                 
+
+
+
+
+Teacher: rai1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+                                 1c/rai 
+                                 1d/rai 
+                 1d/rai  1a/rai  1a/rai 
+                                        
+                 1c/rai                 
+                         1b/rai         
+         1b/rai                         
+
+
+
+
+Teacher: sjk1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 4a/sjk  4a/sjk  4a/sjk  4a/sjk  4a/sjk 
+ 2a/sjk  3a/sjk  3a/sjk  3a/sjk         
+ 3a/sjk  2a/sjk  2a/sjk  2a/sjk         
+ 1b/sjk  1b/sjk  1b/sjk  1b/sjk         
+ 3d/sjk  3d/sjk  3d/sjk  3d/sjk         
+ 1a/sjk  1a/sjk  1a/sjk                 
+                 1a/sjk                 
+
+
+
+
+Teacher: sjk2
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 4b/sjk  4b/sjk  4b/sjk  4b/sjk  4b/sjk 
+ 2b/sjk  2b/sjk  2b/sjk  2b/sjk         
+ 1c/sjk  1c/sjk  1c/sjk  1c/sjk         
+ 2c/sjk  2c/sjk  2c/sjk  2c/sjk         
+ 3b/sjk  3b/sjk  3b/sjk  3b/sjk         
+                                        
+                                        
+
+
+
+
+Teacher: sjk3
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+ 4c/sjk  4c/sjk  4c/sjk  4c/sjk  4c/sjk 
+ 4d/sjk  4d/sjk  4d/sjk  4d/sjk  4d/sjk 
+ 3c/sjk  3c/sjk  3c/sjk  3c/sjk         
+ 1d/sjk  1d/sjk  1d/sjk  1d/sjk         
+ 2d/sjk  2d/sjk  2d/sjk  2d/sjk         
+                                        
+                                        
+
+
+
+
+Teacher: soc1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+                                 3a/soc 
+                 3c/soc                 
+                 3b/soc  3d/soc         
+                                        
+                                        
+ 3d/soc                  3b/soc         
+         3a/soc          3c/soc         
+
+
+
+
+Teacher: ume1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+                                        
+         1a/ume  1a/ume                 
+ 1b/ume                                 
+                                        
+ 1d/ume  1c/ume  1b/ume                 
+                 1c/ume                 
+                 1d/ume                 
+
+
+
+
+Teacher: zgo1
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+         3a/zgo          3c/zgo         
+ 3c/zgo  4c/zgo                         
+                                        
+ 4a/zgo  2d/zgo  4a/zgo  1a/zgo  1a/zgo 
+ 4d/zgo  2b/zgo  4d/zgo                 
+ 4c/zgo  1c/zgo  3a/zgo  1c/zgo         
+ 4b/zgo  4b/zgo  2d/zgo  2b/zgo         
+
+
+
+
+Teacher: zgo2
+
+  Mon     Tue     Wed     Thu     Fri   
+========================================
+                                        
+                                        
+         1d/zgo  1b/zgo  1b/zgo  2a/zgo 
+                                 1d/zgo 
+                                        
+ 3b/zgo          3b/zgo  3d/zgo         
+ 3d/zgo  2c/zgo  2a/zgo  2c/zgo         
+

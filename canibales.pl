@@ -66,6 +66,5 @@ camino(EstadoIni, EstadoFin, Visitados, [pasar(M,C,Dir)|Camino]):-
   \+ member(EstadoTMP, Visitados),
   camino(EstadoTMP, EstadoFin, [EstadoTMP|Visitados], Camino).
 
-
 % solucion:
 solucion(Camino):- camino(estado(0,0, dch), estado(3,3,_), [], Camino). 
